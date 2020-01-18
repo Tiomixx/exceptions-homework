@@ -1,6 +1,6 @@
-package TestRunner;
+package testRunner;
 
-import Tests.*;
+import tests.*;
 
 import java.text.ParseException;
 
